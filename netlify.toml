@@ -1,0 +1,6 @@
+[build]
+  functions = "netlify/functions"
+
+[functions."keepalive"]
+  # Dispara a cada 12 minutos
+  schedule = "*/12 * * * *"

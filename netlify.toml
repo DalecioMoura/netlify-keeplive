@@ -3,4 +3,4 @@
 
 [functions."keepalive"]
   # Dispara a cada 12 minutos
-  schedule = "*/12 * * * *"
+  schedule = "*/2 * * * *"
